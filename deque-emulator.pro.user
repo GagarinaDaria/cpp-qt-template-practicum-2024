@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 13.0.0, 2025-02-20T13:45:03. -->
+<!-- Written by QtCreator 13.0.0, 2025-02-20T14:13:42. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -69,7 +69,10 @@
     <value type="bool" key="AutoTest.Framework.QtQuickTest">true</value>
     <value type="bool" key="AutoTest.Framework.QtTest">true</value>
    </valuemap>
-   <valuemap type="QVariantMap" key="AutoTest.CheckStates"/>
+   <valuemap type="QVariantMap" key="AutoTest.CheckStates">
+    <value type="Qt::CheckState" key="1@D:/dev/cpp-qt-template-practicum-2024/problems/sprint4/deque-emulator/tests/tests.cpp:cleanup">Unchecked</value>
+    <value type="Qt::CheckState" key="1@D:/dev/cpp-qt-template-practicum-2024/problems/sprint4/deque-emulator/tests/tests.cpp:init">Unchecked</value>
+   </valuemap>
    <value type="int" key="AutoTest.RunAfterBuild">0</value>
    <value type="bool" key="AutoTest.UseGlobal">true</value>
    <valuemap type="QVariantMap" key="ClangTools">
